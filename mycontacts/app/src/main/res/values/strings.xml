@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Contacts</string>
+
+    <string name="call">Call</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="number">Phone number</string>
+    <string name="contacts">Contacts</string>
+    <string name="name_is_needed">Name is Needed</string>
+    <string name="phone_is_needed">Phone Number is Needed</string>
+    <string name="it_seems_that_there_re_no_data">It seems that there\'re no data!</string>
+    <string name="search">Search...</string>
+    <string name="warning">Warning</string>
+    <string name="proceed">Proceed</string>
+    <string name="do_you_want_to_delete">Do you want to delete this contact ?</string>
+    <string name="add_succsess">Contact Added Successfully</string>
+    <string name="add_failed">Contact is Added Before</string>
+</resources>
